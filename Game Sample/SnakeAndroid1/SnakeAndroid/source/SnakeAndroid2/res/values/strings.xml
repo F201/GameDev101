@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SnakeActivity!</string>
+    <string name="app_name">Snake</string>
+    <string name="ReturnButton">Return</string>
+    <string name="RestartButton">Restart</string>
+    <string name="Play">Play</string>
+    <string name="Settings">Settings</string>
+    <string name="saveandreturn">Save and return</string>
+    <string name="returnwithoutsaving">Return (without saving)</string>
+    <string name="returnToMenu">Return</string>
+    <string name="highscore">Highscore</string>
+    <string name="playerName">Name</string>
+    <string name="speed">Speed</string>
+
+</resources>
