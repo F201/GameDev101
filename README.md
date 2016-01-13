@@ -15,3 +15,9 @@ A repository for those who want to learn the basics of game development
 -. http://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384
 
 -. https://unity3d.com/learn/tutorials/modules/beginner/your-first-game/how-to-start-your-game-development
+
+-. https://www.udacity.com/course/viewer#!/c-ud405
+
+-. https://www.reddit.com/r/libgdx (Forum)
+
+-. http://kenney.nl/assets (Free assets)
